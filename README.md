@@ -32,3 +32,4 @@ Due to limited time, following tasks were not finished/implemented:
 - tests (JUnit, integration)
 - documentation (javadoc, etc.)
 - code improvements (caching of list of countries, better error handling, etc.) 
+- optimized router based on lat/lng
