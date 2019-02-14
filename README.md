@@ -28,7 +28,7 @@ mvnw clean spring-boot:run
 Open your browser at ```http://localhost:8080/routing/CZE/ITA```
 
 ### Implementation notes
-Due to limited time, following tasks were not implemented:
+Due to limited time, following tasks were not finished/implemented:
 - tests (JUnit, integration)
 - documentation (javadoc, etc.)
 - code improvements (caching of list of countries, better error handling, etc.) 
